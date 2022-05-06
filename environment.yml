@@ -1,0 +1,13 @@
+name: EGM722-Assignment
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - geopandas=0.10.2
+  - matplotlib=3.5.1
+  - openpyxl-3.0.9
+  - shapely 1.8.2
+
+
