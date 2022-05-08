@@ -2,7 +2,7 @@
 
 **Setup / Installation**
 
-1. **Getting Started**
+**1.** **Getting Started**
 
 To get started you will need to download and install the latest versions of **git** and **Anaconda**.
 
@@ -22,7 +22,7 @@ Also, to run the Python Script that is stored within the repository you will nee
 Be sure to download the **Community Edition** as it is free and open source
 
 
-1. **Clone Repository**
+**2.** **Clone Repository**
 
 Once you have installed GitHub desktop then to clone this repository you go to **File > Clone repository.**
 
@@ -33,12 +33,12 @@ Click on the **URL** tab, then enter the link below:
 Save this to local folder which you will be working on.
 
 
-1. **Create an Anaconda Environment**
+**3.** **Create an Anaconda Environment**
 
 To create and Anaconda Environment, we first open Anaconda Navigator that installed at the start of the process. Once the application is opened if click on the **“Environments”** tab on the left-hand side of screen then using the import from bottom of the panel and will be able to point to the environment file that was cloned as part of the repository above.
 
 
-1. **Data**
+**4.** **Data**
 
 This test data was sourced from a local Water Authority, due to the amount of data that is held in the original shapefiles it was decided that using a subset of this would give the opportunity to evaluate the usability of using python as a tool for quicker efficient analysis of the data:
 
